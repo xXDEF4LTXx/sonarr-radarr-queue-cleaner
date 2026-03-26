@@ -25,7 +25,7 @@ logging.basicConfig(
 )
 
 # Function to make API requests
-def make_api_request(url:str, api_key:str, params=None) -> any | None:
+def make_api_request(url:str, api_key:str, params=None) -> dict | None:
     headers = {
         'X-Api-Key': api_key
     }
@@ -38,7 +38,7 @@ def make_api_request(url:str, api_key:str, params=None) -> any | None:
         return None
 
 # Function to make API delete requests
-def make_api_delete(url:str, api_key:str, params=None) -> any | None:
+def make_api_delete(url:str, api_key:str, params=None) -> dict | None:
     headers = {
         'X-Api-Key': api_key
     }
