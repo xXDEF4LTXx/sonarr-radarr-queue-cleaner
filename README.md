@@ -38,7 +38,7 @@ To use with Docker:
 
 To use without docker:  
   1. ```
-     git clone https://github.com/PaeyMoopy/sonarr-radarr-queue-cleaner.git
+     git clone https://github.com/xXDEF4LTXx/sonarr-radarr-queue-cleaner.git
 
      cd sonarr-radarr-queue-cleaner
      ```
