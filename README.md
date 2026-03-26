@@ -9,7 +9,7 @@ The amount of strikes and amount of time between checks can be changed in the co
 
 To use with Docker:
   1. ```
-     git clone https://github.com/PaeyMoopy/sonarr-radarr-queue-cleaner.git
+     git clone https://github.com/xXDEF4LTXx/sonarr-radarr-queue-cleaner.git
 
      cd sonarr-radarr-queue-cleaner
      ```
