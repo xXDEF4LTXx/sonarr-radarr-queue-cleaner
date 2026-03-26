@@ -1,5 +1,5 @@
 # sonarr-radarr-queue-cleaner
-This is a fork of MattDGTLs project with some added functionality. Credit to the overall idea can go here: https://github.com/MattDGTL/sonarr-radarr-queue-cleaner
+This is a fork of PaeyMoopy's project (https://github.com/PaeyMoopy/sonarr-radarr-queue-cleaner) which is a fork of  MattDGTLs project with some added functionality. Credit to the overall idea can go here: https://github.com/MattDGTL/sonarr-radarr-queue-cleaner
 
 A simple Sonarr and Radarr script to clean out stalled downloads.
 
