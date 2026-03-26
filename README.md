@@ -52,7 +52,7 @@ To use without docker:
    nano config.json
    ```
 3. ```
-   pip install requirements.txt
+   pip install -r requirements.txt
    ```
 4. ```
    python3 cleaner.py
