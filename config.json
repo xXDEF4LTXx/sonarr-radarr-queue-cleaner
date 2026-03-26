@@ -5,7 +5,7 @@
   "RADARR_API_KEY": "your-radarr-api-key",
   "API_TIMEOUT": 600,
   "STRIKE_COUNT": 5,
-  "QBITTORRENT_URL": "http://qbittorrent-url/api/v2",
+  "QBITTORRENT_URL": "http://qbittorrent-url",
   "QBITTORRENT_USERNAME": "your-qbittorrent-username",
   "QBITTORRENT_PASSWORD": "your-qbittorrent-password",
   "QBITTORRENT_METADATA_TIMEOUT": 600
