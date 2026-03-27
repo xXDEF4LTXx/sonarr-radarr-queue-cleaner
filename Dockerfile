@@ -1,4 +1,4 @@
-FROM python:3.9-slim-buster
+FROM python:3.11-slim-bookworm
 
 ENV SONARR_URL='http://sonarr:8989'
 ENV SONARR_API_KEY=123456
